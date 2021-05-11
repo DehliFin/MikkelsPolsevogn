@@ -1,0 +1,7 @@
+C:\Users\jepp6960\OneDrive\programmering\h3\MikkelsPolsevogn\MikkelsPolsevogn\obj\Debug\MikkelsPolsevogn.csprojAssemblyReference.cache
+C:\Users\jepp6960\OneDrive\programmering\h3\MikkelsPolsevogn\MikkelsPolsevogn\obj\Debug\MikkelsPolsevogn.csproj.CoreCompileInputs.cache
+C:\Users\jepp6960\OneDrive\programmering\h3\MikkelsPolsevogn\MikkelsPolsevogn\bin\Debug\MikkelsPolsevogn.exe.config
+C:\Users\jepp6960\OneDrive\programmering\h3\MikkelsPolsevogn\MikkelsPolsevogn\bin\Debug\MikkelsPolsevogn.exe
+C:\Users\jepp6960\OneDrive\programmering\h3\MikkelsPolsevogn\MikkelsPolsevogn\bin\Debug\MikkelsPolsevogn.pdb
+C:\Users\jepp6960\OneDrive\programmering\h3\MikkelsPolsevogn\MikkelsPolsevogn\obj\Debug\MikkelsPolsevogn.exe
+C:\Users\jepp6960\OneDrive\programmering\h3\MikkelsPolsevogn\MikkelsPolsevogn\obj\Debug\MikkelsPolsevogn.pdb
